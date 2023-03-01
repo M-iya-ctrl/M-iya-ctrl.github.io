@@ -1,1 +1,0 @@
-import{_ as t,M as n,p as o,q as s,R as c,N as a,V as r,t as l}from"./framework-5866ffd3.js";const _={};function d(f,i){const e=n("RouterLink");return o(),s("div",null,[c("p",null,[a(e,{to:"/notes/front-end-study/html&css/css-notes/flex%E5%B8%83%E5%B1%80.html"},{default:r(()=>[l("flex布局")]),_:1})])])}const u=t(_,[["render",d],["__file","index.html.vue"]]);export{u as default};
