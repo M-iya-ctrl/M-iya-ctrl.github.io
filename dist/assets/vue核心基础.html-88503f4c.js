@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-558af526","path":"/notes/front-end-study/vue/notes/vue%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"vue 核心基础","slug":"vue-核心基础","link":"#vue-核心基础","children":[]}],"git":{},"filePathRelative":"notes/front-end-study/vue/notes/vue核心基础.md"}');export{e as data};

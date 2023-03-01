@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7c210fc7","path":"/notes/front-end-study/html_css/css-notes/flex%E5%B8%83%E5%B1%80.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"flex 布局","slug":"flex-布局","link":"#flex-布局","children":[]}],"git":{},"filePathRelative":"notes/front-end-study/html&css/css-notes/flex布局.md"}');export{e as data};
